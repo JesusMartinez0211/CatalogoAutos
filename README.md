@@ -1,11 +1,11 @@
-A dynamic car catalog application built with JavaScript and MongoDB.
+A command-line application to manage a car catalog using JavaScript and MongoDB.
 
-This project simulates a vehicle catalog, allowing users to explore, search, and manage car details. Powered by JavaScript on the front-end and MongoDB for the database, it provides a seamless experience for interacting with car data.
+This terminal-based project simulates a car catalog, allowing users to interact with a MongoDB database to add, view, search, update, and delete car entries. It's perfect for learning backend development and database integration.
 
 Features:
 
-View and search a list of cars with detailed specifications.
-Add, update, or delete car entries.
-Real-time database integration with MongoDB.
-Clean and responsive interface for easy navigation.
-Perfect for learning full-stack JavaScript development and MongoDB integration.
+Manage car data directly from the terminal.
+CRUD operations (Create, Read, Update, Delete) for vehicle records.
+MongoDB integration for efficient data storage.
+Simple and intuitive command-line interface.
+Explore the power of JavaScript and MongoDB in a terminal-first workflow.
